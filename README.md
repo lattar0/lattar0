@@ -8,4 +8,4 @@ Adoro programação, espero aprender ReactJS e React Native para criar aplicaç�
  <br/> :email: &nbsp; Caso queira entrar em contato comigo:
 
 ![Gmail Badge](https://img.shields.io/badge/-joaolattarog@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaolattarog@gmail.com)
-Mande um email para: joaolattarog@gmail.com. E irei te responder.
+<br/> Mande um email para: joaolattarog@gmail.com. E irei te responder.
