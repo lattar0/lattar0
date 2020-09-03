@@ -6,6 +6,11 @@ Adoro programação, espero aprender ReactJS e React Native para criar aplicaç�
  <br/> 😳 &nbsp; Posso **tentar** te ajudar com criação de bots de Discord em JavaScript, ou em algo relacionado a JavaScript.
  <br/> 💬  &nbsp; Sobre mim: Jogo COD Mobile, e gosto de The 100.
  <br/> :email: &nbsp; Caso queira entrar em contato comigo:
+ 
+ [img]: https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&theme=dracula&count_private=true
+ [github]: https://github.com/shaundeveloper/
 
 ![Gmail Badge](https://img.shields.io/badge/-joaolattarog@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaolattarog@gmail.com)
 <br/> Mande um email para: joaolattarog@gmail.com. E irei te responder.
+
+[![Shaun][img]][github]
