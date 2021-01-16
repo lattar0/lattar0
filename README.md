@@ -8,4 +8,4 @@ Adoro programação, espero aprender ReactJS e React Native para criar aplicaç�
  
  ![img](https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&theme=dracula&count_private=true)
  
- ![github](https://github.com/shaundeveloper/)
+ [github](https://img.shields.io/badge/github-shaundeveloper-red)
