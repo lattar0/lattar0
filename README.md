@@ -7,4 +7,5 @@ Adoro programação, espero aprender ReactJS e React Native para criar aplicaç�
  <br/> :email: &nbsp; Caso queira entrar em contato comigo:
  
  ![img]: https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&theme=dracula&count_private=true
+ 
  ![github]: https://github.com/shaundeveloper/
