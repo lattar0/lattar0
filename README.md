@@ -6,6 +6,6 @@ Adoro programação, espero aprender ReactJS e React Native para criar aplicaç�
  <br/> 💬  &nbsp; Sobre mim: Jogo COD Mobile, e gosto de The 100.
  <br/> :email: &nbsp; Caso queira entrar em contato comigo:
  
- ![img](https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&theme=dracula&count_private=true)
+ ![img](https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&theme=dark&count_private=true)
  
  ![github](https://img.shields.io/badge/github-shaundeveloper-red "github.com/shaundeveloper")
