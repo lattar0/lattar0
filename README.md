@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/shaundeveloper?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&custom_title=Shaun%20Github%20Stats&theme=tokyonight" alt="Lennart Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api?username=shaundeveloper&show_icons=true&custom_title=Shaun%20Github%20Stats&theme=gotham" alt="Lennart Statistics." />
     
 </p>
 <hr>
