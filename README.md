@@ -16,15 +16,16 @@ Discord: Shaun#9459
 
 **Languages and Technologies**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Next.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=339933)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=3799d6)
-![dotNet](https://img.shields.io/badge/-.NET-000000?style=for-the-badge&logo=.net&logoColor=4f27d5)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=fff)
 
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=f74b00)
-![Golang](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=00acd7)
 
+![Vim](https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=vim&logoColor=fff)
+![Nano](https://img.shields.io/badge/-Nano-000000?style=for-the-badge&logo=nano&logoColor=fff)
