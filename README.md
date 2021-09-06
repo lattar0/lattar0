@@ -17,13 +17,15 @@ Hello, my name is João, I started in the world of programming a while ago, each
 
 **Languages and Technologies**
 
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=fff)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=fff)
+
+![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=fff)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
