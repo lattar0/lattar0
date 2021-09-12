@@ -19,16 +19,16 @@ Hello, my name is João, I started in the world of programming a while ago, each
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
 
-![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=fff)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react&logoColor=fff)
+![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=for-the-badge&logo=react&logoColor=26a5bf)
 
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=bf230f)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
 
-![Vim](https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=vim&logoColor=fff)
-![Nano](https://img.shields.io/badge/-Nano-000000?style=for-the-badge&logo=nano&logoColor=fff)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=vim&logoColor=21560b)
+![Nano](https://img.shields.io/badge/-Nano-000000?style=for-the-badge&logo=nano&logoColor=103fcc)
