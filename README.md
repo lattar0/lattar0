@@ -5,11 +5,6 @@
 
 Hello, my name is João, I started in the world of programming a while ago, each day I am more interested in new technologies!
 
-<br>
-<img src="https://discord.c99.nl/widget/theme-4/368459250776932363.png" />
-<hr>
-<br>
-
 **Languages and Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42)
